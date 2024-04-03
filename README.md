@@ -17,8 +17,8 @@
 
 ## How to Reach Me
 
-- 📫 You can reach me via [email](mailto:panteliccnikolaa@gmail.com).
-- 💬 You can also find me on [LinkedIn](https://www.linkedin.com/in/panteliccnikola/).
+- 📫 You can reach me via [panteliccnikolaa@gmail.com](mailto:panteliccnikolaa@gmail.com).
+- 💬 You can also find me on [panteliccnikola](https://www.linkedin.com/in/panteliccnikola/).
 
 ## Thanks for visiting my profile!
 
