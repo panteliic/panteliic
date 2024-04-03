@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 💻 Proficient in full-stack development using Node.js and Next.js.
+- 💻 Proficient in full-stack development using Next.js and React for front-end, and Node.js for back-end.
 - 🌱 Constantly learning new technologies and tools, such as Express, MongoDB, Tailwind CSS, and TypeScript.
 - 🔍 Enjoy exploring best practices and techniques in software development.
 - 📚 Goal is to become an expert in full-stack development and contribute to the developer community.
